@@ -1,0 +1,31 @@
+#Configuración general de finales de línea
+* texto=auto
+
+#Archivos de código
+*.php texto eol=lf
+*.html texto eol=lf
+*.css texto eol=lf
+*.js texto eol=lf
+*.json texto eol=lf
+*.sql texto eol=lf
+*.xml texto eol=lf
+
+#Documentación
+*.md texto eol=lf
+*.txt texto eol=lf
+
+#Archivos de Windows
+*.bat texto eol=crlf
+*.cmd texto eol=crlf
+
+#Imágenes y archivos binarios
+*.png binario
+*.jpg binario
+*.jpeg binario
+*.gif binario
+*.ico binario
+*.pdf binario
+*.zip binario
+*.woff binario
+*.woff2 binario
+*.ttf binario
