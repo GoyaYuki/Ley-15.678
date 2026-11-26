@@ -10,8 +10,8 @@ print("=== SISTEMA DE ASESORAMIENTO NORMATIVO ESCOLAR ===")
 print("==================================================\n")
 
 # Simulamos las variables de contexto del aula
-autorizacion_docente = False  # Cambiar a True si el profe habilitó la actividad digital
-emergencia_familiar = False   # Cambiar a True si fue validado por preceptores
+autorizacion_docente = True  # Cambiar a True si el profe habilitó la actividad digital
+emergencia_familiar = True   # Cambiar a True si fue validado por preceptores
 
 print(f"Estado de Autorización Docente : {autorizacion_docente}")
 print(f"Estado de Emergencia Validada  : {emergencia_familiar}\n")
