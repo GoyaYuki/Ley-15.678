@@ -18,3 +18,7 @@ True-False.png (autorizacion_docente = True / emergencia_familiar = False )
 ## [0.4.0] - 2026-11-26
 ### Añadido
 Implementacion de el Dual-remote
+
+## [0.5.0] - 2026-11-26
+### Añadido
+Implementacion del informe
