@@ -22,3 +22,7 @@ Implementacion de el Dual-remote
 ## [0.5.0] - 2026-11-26
 ### Añadido
 Implementacion del informe
+
+## [0.5.0] - 2026-11-26
+### Añadido
+Implementacion del README.md
